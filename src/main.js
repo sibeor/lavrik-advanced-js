@@ -17,5 +17,4 @@ let pr = mathOp(mathOp(mathOp(100, 60, '+'), emps, '/'), 0.5, '*')
 console.log(pr)
 
 */
-import './hw1/index.js'
-main()
+import './hw1/hw1-async.js'
