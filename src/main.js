@@ -18,3 +18,4 @@ console.log(pr)
 
 */
 import './hw1/hw1-async.js'
+console.log(main())
